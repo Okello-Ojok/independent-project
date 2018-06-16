@@ -1,0 +1,15 @@
+
+
+.ojok {
+  float: left;
+}
+.ojok h1 a {
+  color: #333;
+  text-decoration: none;
+  padding-left: 15px;
+}
+.ojok h1 a span{
+  display: block;
+  padding: 5px 0px 5px 15px;
+  font-weight: 600;
+}
