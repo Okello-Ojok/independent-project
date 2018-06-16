@@ -16,20 +16,21 @@
   letter-spacing: 2px;
 }
 
-.first {
-  margin-top: 50px;
+/*.main {
+  margin:100px 70px 0 70px;
+
+}*/
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: silver;
 }
 
-.brief {
-  width: 50%;
-  float: left;
-}
-.pic{
-  width: 50%;
-  float: right;
-}
+
+
 img {
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
 }
