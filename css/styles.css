@@ -7,9 +7,12 @@
   color: #333;
   text-decoration: none;
   padding-left: 15px;
+  font-size: 18px;
+
 }
 .ojok h1 a span{
   display: block;
   padding: 5px 0px 5px 15px;
   font-weight: 600;
+  letter-spacing: 2px;
 }
