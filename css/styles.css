@@ -23,6 +23,11 @@
   background-color: silver;
   height: 500px;
 }
+
+.about-header {
+  text-align: center;
+}
+
 .about-me {
   display: flex;
   justify-content: space-around;
