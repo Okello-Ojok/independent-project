@@ -52,11 +52,21 @@ img {
   height: 300px;
   border-radius: 50%;
 }
-.my-skills {
+/*.my-skills {
   text-align: center;
   background-color: white;
   font-size: 18px;
+}*/
+
+.my-skills {
+  display: flex;
+  width: 500px;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+
 }
+
 
 
 h4 span {
