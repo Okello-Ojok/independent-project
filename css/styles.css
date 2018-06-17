@@ -103,4 +103,9 @@ progress::-moz-progress-bar {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  margin: 0 auto;
+}
+.projects .proj {
+  width: 350px;
+  height: 350px;
 }
