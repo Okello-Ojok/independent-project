@@ -32,11 +32,16 @@
   display: flex;
   justify-content: space-around;
   background-color: blue;
+  color: white;
+  font-size: 18px;
+}
+.about-me a {
+  color: white;
 }
 .about-me > div {
-  width: 400px;
-  height: 400px;
-  margin: 20px;
+  width: auto;
+  height: 450px;
+  margin: 10px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
