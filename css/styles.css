@@ -58,6 +58,11 @@ img {
   font-size: 18px;
 }
 
+
+h4 span {
+  float: right;
+}
+
 progress[value] {
   -web-kit appearance: none;
   -moz-appearance: none;
