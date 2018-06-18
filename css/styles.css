@@ -51,7 +51,8 @@ nav a {
    padding: 20px;
    border: 2px solid black;
    border-radius: 50%;
- }
+}
+
 .flex-container {
   display: flex;
   justify-content: space-around;
